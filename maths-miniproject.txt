@@ -1,0 +1,12 @@
+online communication 
+take photo
+.png to .txt
+supply .txt to clean text matrix and then decide on the key
+get encrypted matrix
+convert matrix into plain text 
+and then 
+
+
+
+
+python code for .png to .txt and vice versa python code.
